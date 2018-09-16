@@ -1,0 +1,89 @@
+/** variables **/
+/***RESETS***/
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Roboto");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif; }
+
+html, body, h1, h2, h3, h4, ul, li {
+  margin: 0;
+  padding: 0; }
+
+h1 img {
+  display: block; }
+
+img {
+  border: 0; }
+
+a {
+  color: #000;
+  text-decoration: none; }
+
+/* Extra small devices (phones, 600px and down) */
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/** variables **/
+/***RESETS***/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif; }
+
+html, body, h1, h2, h3, h4, ul, li {
+  margin: 0;
+  padding: 0; }
+
+h1 img {
+  display: block; }
+
+img {
+  border: 0; }
+
+a {
+  color: #000;
+  text-decoration: none; }
+
+/* Medium devices (landscape tablets, 768px and up) */
+/** variables **/
+/***RESETS***/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif; }
+
+html, body, h1, h2, h3, h4, ul, li {
+  margin: 0;
+  padding: 0; }
+
+h1 img {
+  display: block; }
+
+img {
+  border: 0; }
+
+a {
+  color: #000;
+  text-decoration: none; }
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+/** variables **/
+/***RESETS***/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif; }
+
+html, body, h1, h2, h3, h4, ul, li {
+  margin: 0;
+  padding: 0; }
+
+h1 img {
+  display: block; }
+
+img {
+  border: 0; }
+
+a {
+  color: #000;
+  text-decoration: none; }
