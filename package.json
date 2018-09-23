@@ -1,0 +1,23 @@
+{
+  "name": "web_prede",
+  "version": "1.0.0",
+  "description": "Web predeterminada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lopez089/WEB_init_.git"
+  },
+  "author": "Lopez089",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lopez089/WEB_init_/issues"
+  },
+  "homepage": "https://github.com/Lopez089/WEB_init_#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0"
+  }
+}
